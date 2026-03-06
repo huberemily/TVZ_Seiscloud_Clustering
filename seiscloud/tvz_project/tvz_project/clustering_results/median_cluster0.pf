@@ -1,0 +1,9 @@
+name = event_2007_000201
+time = 2007-01-24 21:33:32.183
+latitude = -37.939192
+longitude = 176.683736
+magnitude = 1.4373
+moment = 1.60676e+11
+depth = 12488.281
+tags = dbtype:core, cluster:0
+--------------------------------------------
